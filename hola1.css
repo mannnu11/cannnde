@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(155, 73, 187);
+    background-color: lightblue;
+    border: 0px solid black;
+    }
+    p {
+    color: red;
+    }
+body {
+    background-color: lightblue;
+    }
+#home {
+    width: 300px;
+    height: 300px;
+    background: url(https://i.pinimg.com/564x/5f/ab/d9/5fabd9267e75a483442e11ba2e0d730f.jpg) 0 0;
+  }
